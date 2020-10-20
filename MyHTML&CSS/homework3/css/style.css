@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    background-image: url("../images/photo_2020-10-16_16-34-47.jpg");
+}
+h1{
+    letter-spacing: 8px;
+    font-size: 44px;
+}
+h2{
+    font-size: 32px;
+}
+h1, h2{
+    font-family: "Arial";
+    text-align: center;
+}
+span#one{
+    font-size: 24px;
+}
+span#two, span#three{
+    letter-spacing: 3px;
+}
+li{
+    margin-left: 70px;
+    list-style: circle;
+}
+hr{
+    height: 1px;
+    background-color: gray;
+}
