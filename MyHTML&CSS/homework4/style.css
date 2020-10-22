@@ -1,0 +1,24 @@
+table{
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    height: 200px;
+    width: 550px;
+    border-collapse: collapse;
+}
+table, th, td{
+    text-align: center;
+    border: 1px solid;
+}
+th{
+    height: 40px;
+    background-color: yellow;
+}
+td{
+    height: 40px;
+}
+caption{
+    font-family: serif;
+    font-style: italic;
+    font-size: 22px;
+}
