@@ -1,2 +1,2 @@
-# denys_yerchenko_february_2020
+# denys_yerchenko
 My first repository
