@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid;
+    background-color: yellow;
+    text-align: center;
+    color: darkviolet;
+    text-decoration: underline;
+    height: 30px;
+}
+h1{
+    text-align: center;
+}
+img{
+    float: left;
+    margin-right: 60px;
+}
+span{
+    color: darkviolet;
+    font-size: 16px;
+    text-decoration: underline;
+    font-style: italic;
+}
+div{
+    margin-top: 300px;
+}
+#top{
+    color: darkviolet;
+    text-decoration: underline;
+}
+p{
+    font-size: 18px;
+    line-height: 2;
+}
+h2{
+    color: blue;
+}
