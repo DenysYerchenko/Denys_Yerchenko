@@ -26,4 +26,6 @@ li{
 hr{
     height: 1px;
     background-color: gray;
+    border-bottom-color: gray;
+    border-top-color: gray;
 }
