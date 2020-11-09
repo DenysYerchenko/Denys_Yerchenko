@@ -1,0 +1,37 @@
+table{
+    background-color: beige;
+    margin-left: 350px;
+    margin-top: 150px;
+    height: 600px;;
+    width: 1200px;
+    border: double;
+    border-color: black;
+    text-align: center;
+    font-size: 22px;
+    font-family: arial;
+}
+input[type="button"]{
+    width: 220px;
+    height: 100px;
+    background-color: beige;
+    border: none;
+    font-size: 18px;
+}
+.firstrowlink{
+    color: green;
+}
+.firstrowlink:hover{
+    color: red;
+}
+.secondrowlink{
+    color: black;
+}
+.secondrowlink:hover{
+    color: orangered;
+}
+.thirdrowlink{
+    color: blue;
+}
+.thirdrowlink:hover{
+    color: black;
+}
